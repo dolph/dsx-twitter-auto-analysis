@@ -65,10 +65,10 @@ Sign up for IBM's [Data Science Experience](http://datascience.ibm.com/). By sig
 Create the following IBM Cloud services by clicking the **Deploy to Bluemix**
 button or by following the links to use the IBM Cloud UI and create them.
 
-  * [**Insights for Twitter**](https://console.ng.bluemix.net/catalog/services/insights-for-twitter)
-  * [**dashDB for Analytics**](https://console.ng.bluemix.net/catalog/services/dashdb-for-analytics)
+  * [**Insights for Twitter**](https://cloud.ibm.com/catalog/services/insights-for-twitter)
+  * [**dashDB for Analytics**](https://cloud.ibm.com/catalog/services/dashdb-for-analytics)
   
-[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/ibm/dsx-twitter-auto-analysis&cm_mmc=github-code-_-native-_-tweetswjn-_-deploy2bluemix)
+[![Deploy to IBM Cloud](https://cloud.ibm.com/devops/setup/deploy/button.png)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/ibm/dsx-twitter-auto-analysis&cm_mmc=github-code-_-native-_-tweetswjn-_-deploy2bluemix)
 
 ## 3. Configure dashDB
 
